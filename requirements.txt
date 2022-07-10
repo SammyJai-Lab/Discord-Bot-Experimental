@@ -1,0 +1,6 @@
+discord.py
+pytube
+beautifulsoup4
+lxml
+requests_html
+python-dotenv
